@@ -1,0 +1,8 @@
+{
+  "personalAccessToken": "823834c3b58d56af33a1d1c459c7816d77c2ad5c",
+
+  "userPublicKeyPath": "/home/manya/.ssh/id_rsa.pub", 
+  "userPrivateKeyPath": "/home/manya/.ssh/id_rsa", 
+  "userPassphrase": "",
+  "longLivedBranches": ["master"]
+}
